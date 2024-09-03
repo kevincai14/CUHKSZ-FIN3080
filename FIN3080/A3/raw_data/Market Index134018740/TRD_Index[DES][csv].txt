@@ -1,0 +1,3 @@
+Indexcd [Index Code] - 000001: SSE Composite Index000002: SSE Composite A Share Index000003: SSE Composite B Share Index399106: SZSE Composite Index399107: SZSE Composite A Share Index 399108: SZSE Composite B Share Index399001: SZSE Constituent Index000010: SSE 180 Index399004: SZSE 100 Index000300: CSI 300 Index000902: China Securities Free Float Index (CSI Free Float)000903: CSI 100 (SSE)399903: CSI 100 (SZSE)399329: SSE SME Price Index000020: SSE Medium Enterprise Composite Index
+Trddt [Trading Date] - Denoted by YYYY-MM-DD
+Clsindex [Closing Index] - The last Index in trading day

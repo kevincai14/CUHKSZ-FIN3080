@@ -1,0 +1,3 @@
+Markettype [Market Type] - 1=SSE A share market (excluding STAR Market); 2= SSE B share market; 4= SZSE A share market (excluding ChiNext); 8= SZSE B share market; 16= ChiNext; 32= STAR Market., 64= BSE A share market
+Trddt [Trading Date] - Denoted by YYYY-MM-DD
+Dretmdeq [Daily Market Return Without Cash Dividend (Equal-Weighted)] - Please refer to “How Returns Are Calculated”

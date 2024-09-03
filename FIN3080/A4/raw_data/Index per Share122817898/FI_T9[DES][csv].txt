@@ -1,0 +1,6 @@
+Stkcd [Stock Code] - Subject to the stock code released by the Shanghai Stock Exchange and the Shenzhen Stock Exchange.
+ShortName_EN [Stock Short Name] - Subject to the Stock Short Name released by Shanghai Stock Exchange, Shenzhen Stock Exchange and Beijing Stock Exchange
+Accper [Ending Date of Statistics] - Date of accounting statement, denoted by 10 characters, for instance, 1999-12-31.
+Typrep [Code for Statement Type] - A = Consolidated Statements, B = Parent Statements. The data in the single company statement are used in the database if consolidated statements are not disclosed.
+Indcd [Industry Code] - Industry Classification (2012) released by CSRC.
+F090101B [Earnings per Share 1] - Calculation formula: Net Profit / Ending Paid-in Capital. It will be denoted by Null if the denominator is not disclosed or equal to zero.

@@ -1,0 +1,3 @@
+Stkcd [Stock Code] - Codes released by the Shanghai and Shenzhen Stock Exchanges
+Trddt [Trading Date] - Denoted by YYYY-MM-DD
+Dretnd [Daily Return Without Cash Dividend] - Issue price is used as previous closing price of a stock on its first trading day. Please refer to “How Returns Are Calculated”.

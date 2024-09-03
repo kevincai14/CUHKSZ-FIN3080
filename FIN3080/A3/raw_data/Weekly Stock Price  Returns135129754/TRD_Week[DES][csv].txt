@@ -1,0 +1,4 @@
+Stkcd [Stock Code] - Codes released by the Shanghai and Shenzhen Stock Exchanges
+Trdwnt [Trading Week] - Denoted by YYYY-WW
+Wretnd [Weekly Return Without Cash Dividend Reinvested] - Please refer to “How Returns Are Calculated”
+Markettype [Market Type] - 1=SSE A share market (excluding STAR Market); 2= SSE B share market; 4= SZSE A share market (excluding ChiNext); 8= SZSE B share market; 16= ChiNext; 32= STAR Market., 64= BSE A share market

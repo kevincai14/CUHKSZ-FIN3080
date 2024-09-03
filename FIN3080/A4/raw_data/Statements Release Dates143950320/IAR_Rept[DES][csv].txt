@@ -1,0 +1,5 @@
+Stkcd [Stock Code] - Latest stock code released by the Shanghai Stock Exchange and the Shenzhen Stock Exchange.
+Stknme_en [Stock Acronym] - Stock Short Name
+Reptyp [Report Type] - 1 = First Quarterly Report, 2 = Interim Report, 3 = Third Quarterly Report, 4 = Annual Report.
+Accper [Ending Date of Statistics] - Denoted by YYYY-MM-DD; partly missing data denoted by 00 in the corresponding position, e.g. 1993-12-00 denotes a certain day in December 1993.
+Annodt [Announcement Date] - Denoted by YYYY-MM-DD; partly missing data denoted by 00 in the corresponding position, e.g. 1993-12-00 denotes a certain day in December 1993.

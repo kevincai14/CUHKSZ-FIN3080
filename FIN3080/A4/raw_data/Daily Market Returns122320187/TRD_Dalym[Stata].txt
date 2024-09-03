@@ -1,0 +1,4 @@
+#Change the data file encoding to UTF-8
+insheet using D:\CSMAR_Stata\TRD_Dalym.csv
+describe
+save "D:\CSMAR_Stata\TRD_Dalym.dta"
